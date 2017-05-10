@@ -1,0 +1,4 @@
+C:\Users\Vladimir\documents\visual studio 2017\Projects\OutlookFilterAddin\OutlookFilterAddin\obj\Release\HighlightControl\HighlightControl.g.cs
+C:\Users\Vladimir\documents\visual studio 2017\Projects\OutlookFilterAddin\OutlookFilterAddin\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vladimir\documents\visual studio 2017\Projects\OutlookFilterAddin\OutlookFilterAddin\obj\Release\OutlookFilterAddin_MarkupCompile.cache
+C:\Users\Vladimir\documents\visual studio 2017\Projects\OutlookFilterAddin\OutlookFilterAddin\obj\Release\OutlookFilterAddin_MarkupCompile.lref
